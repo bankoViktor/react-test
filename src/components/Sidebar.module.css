@@ -1,0 +1,7 @@
+.sidebar {
+  width: var(--panel-size);
+}
+
+.active {
+  width: 260px;
+}

@@ -1,0 +1,10 @@
+.SidebarToggle {
+  background: none;
+  height: 100%;
+  width: var(--panel-size);
+  border: none;
+}
+
+.SidebarToggle:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}

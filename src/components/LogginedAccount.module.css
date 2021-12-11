@@ -1,0 +1,22 @@
+.logginedAccount {
+  height: 100%;
+  background: none;
+  border-left: 1px solid rgba(200, 200, 200, 0.3);
+  border-right: 1px solid rgba(200, 200, 200, 0.3);
+  padding: 0 1rem;
+}
+
+.logginedAccount:hover {
+  background-color: rgba(0, 0, 0, 0.02);
+  cursor: pointer;
+}
+
+.accountName {
+  color: rgb(50, 50, 50);
+}
+
+.accountPosition {
+  font-size: 0.75rem;
+  margin-top: -0.25rem;
+  color: rgb(180, 180, 180);
+}
